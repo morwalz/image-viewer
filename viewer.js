@@ -66,7 +66,7 @@
           POLYGON_POINT_DELETE: 4,
           ANNOTATION_DISPLAY: 5
         }
-      , state = states.DEFAULT
+      , state = states.ANSWER_DRAW
 
     // keeping track of event handling
       , events = []
